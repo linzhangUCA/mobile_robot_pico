@@ -1,0 +1,15 @@
+{
+  "right_motor_pins": {
+    "pwm": 9,
+    "in1": 11,
+    "in2": 10
+  },
+  "right_encoder_pins": {
+    "channel_a": 16,
+    "channel_b": 17
+  },
+  "encoder_cpr": 28,
+  "gear_ratio": 100,
+  "wheel_radius": 0.021,
+  "vel_meas_freq": 100
+}
